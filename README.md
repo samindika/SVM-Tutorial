@@ -32,7 +32,7 @@ This file demonstrates
    - git clone https://github.com/samindika/SVM-Tutorial
    cd SVM-Tutorial
 2. Download the notebooks
-   - Navigate to the folder where the cloned repository on your local machine.
+   - Navigate to the folder where the cloned repository is on your local machine.
    - download .ipynb files
 3. Open in Google Collab
    -  Go to Google Collab
@@ -43,3 +43,7 @@ This file demonstrates
    - !pip install -r requirements.txt
 5. Run the notebook
     - Follow the instructions in the notebooks to generate visualizations and reproduce the tutorial results.
+
+**License**
+This project is licensed under the MIT License - see the [License] file for details.
+
